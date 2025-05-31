@@ -125,6 +125,6 @@ eventhub/
 *   Testes automatizados.
 
 🧠 **Autor**
+Desenvolvido por Caio Rosa e Pedro Israel, estudantes de Engenharia de Software.
 
-Este README foi gerado com base nos arquivos do projeto fornecidos. Adapte a seção de autoria conforme necessário.
 
